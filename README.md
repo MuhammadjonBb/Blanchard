@@ -1,3 +1,3 @@
 # Blanchard 
-## The web site of gallery & galley shop. 
+## The web site of gallery & gallery shop. 
 Course work from Skillbox.
