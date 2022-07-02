@@ -1,6 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
   // accordion (accordion.js) ----
-  const accordion = new Accordion('.accordion-container');
+  const accordion = new Accordion('.accordion-container', {
+    openOnInit: [0],
+  });
 
   // hero Swiper (swiper.js) ----
   const swiper = new Swiper('.js-hero-swiper', {
